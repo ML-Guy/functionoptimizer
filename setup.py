@@ -7,6 +7,6 @@ setup(name='functionoptimizer',
       install_requires=[
           'six',
           'numba',
-          'hg+https://bitbucket.org/saurabhy/hermes' ],
+          r'hg+https://bitbucket.org/saurabhy/hermes' ],
       packages=['functionoptimizer'],
       zip_safe=False)

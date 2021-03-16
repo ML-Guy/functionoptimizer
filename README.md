@@ -14,8 +14,10 @@ Optimization library for functions. It aggregates available optimisations tools 
    - [ ] cprofiler
    - [ ] memory profiler
  - [ ] Debug
-   - [ ] pdb
-   - [ ] Exception pdb
+   - [ ] pdb/wbd
+   - [ ] pdb always or on Exception
+   - [ ] Dump input and output
+ - [ ] Global config - for debug,profiling and optimisations
 
 # Requirement
 - sudo apt-get install mercurial
